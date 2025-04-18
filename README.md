@@ -1,2 +1,3 @@
-# generative-curricula-mapf
-Generative Curricula for Multi-Agent Path Finding
+# Generative Curricula for Multi-Agent Path Finding
+
+To be updated soon.
